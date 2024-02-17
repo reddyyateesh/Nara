@@ -41,7 +41,7 @@ We may terminate or suspend your access to the Bot immediately, without prior no
 
 ## Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of [Your Country], without regard to its conflict of law provisions.
+These Terms shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law provisions.
 
 ## Contact Us
 
