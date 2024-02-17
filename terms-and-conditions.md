@@ -45,6 +45,6 @@ These Terms shall be governed by and construed in accordance with the laws of [Y
 
 ## Contact Us
 
-If you have any questions or concerns about these Terms, please contact us at [contact@example.com](mailto:contact@example.com).
+If you have any questions or concerns about these Terms, please contact us at [reddyyateesh999@gmail.com](mailto:reddyyateesh999@gmail.com).
 
 Last Updated: [Date]
