@@ -1,6 +1,6 @@
 # NARA Discord Bot Privacy Policy
 
-This Privacy Policy describes how NARA ("the Bot", "we", "us", or "our") collects, uses, and shares information when you use our Discord bot services.
+This Privacy Policy describes how NARA Bot collects, uses, and shares information when you use our Discord bot services.
 
 ## Information We Collect
 
