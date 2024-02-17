@@ -1,6 +1,6 @@
 # NARA Discord Bot Terms of Service
 
-These Terms of Service ("Terms") govern your use of the NARA Discord bot ("the Bot", "we", "us", or "our"). By using the Bot, you agree to be bound by these Terms. If you do not agree to these Terms, please refrain from using the Bot.
+These Terms of Service ("Terms") govern your use of the NARA Discord Bot. By using the Bot, you agree to be bound by these Terms. If you do not agree to these Terms, please refrain from using the Bot.
 
 ## Use of the Bot
 
