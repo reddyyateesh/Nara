@@ -45,6 +45,6 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## Contact Us
 
-If you have any questions or concerns about our Privacy Policy or our practices regarding your information, please contact us at [contact@example.com](mailto:contact@example.com).
+If you have any questions or concerns about our Privacy Policy or our practices regarding your information, please contact us at [reddyyateesh999@example.com](mailto:reddyyateesh999@gmail.com).
 
 Last Updated: [Date]
