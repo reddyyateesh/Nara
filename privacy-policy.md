@@ -1,50 +1,51 @@
-# NARA Discord Bot Privacy Policy
+# NARA Discord Bot - Privacy Policy
 
-This Privacy Policy describes how NARA Bot collects, uses, and shares information when you use our Discord bot services.
+This document outlines the privacy policy for the Discord bot ("NARA") and its associated services provided by the developer.
 
-## Information We Collect
+## Information Collected
 
-### Information You Provide
+The Bot may collect the following types of information:
 
-We do not collect any personal information that you provide to us directly.
+- **Discord User ID:** Utilized for unique user identification, managing AFK status, and user preferences.
 
-### Automatically Collected Information
+- **Server Information:** Data about Discord servers, including server ID, name, and member list, for server-specific functionalities like welcome messages, automod settings, and module interactions requiring server-specific details.
 
-We may collect certain information automatically when you interact with our bot, including:
+- **Usage Data:** Collected to understand Bot usage patterns, including executed commands, sent messages, and interactions within Discord servers.
 
-- **Server Information:** We may collect server information such as server IDs, channel IDs, and message content to provide bot functionality.
-- **User Information:** We may collect user IDs and usernames in order to facilitate interactions with the bot.
-- **Usage Data:** We may collect data on how you interact with our bot, such as command usage and frequency, to improve our services.
+## Use of Information
 
-## How We Use Your Information
+The collected information is used for the following purposes:
 
-We may use the information we collect for the following purposes:
+- **Providing Services:** Maintaining and delivering Bot functionalities, managing AFK status, welcome messages, and facilitating other module functionalities.
 
-- To provide and maintain our bot services.
-- To improve, personalize, and optimize the user experience.
-- To respond to your inquiries, requests, and support needs.
+- **Improvement and Development:** Enhancing Bot performance, improving user experience, and developing additional features based on user interactions.
 
-## Information Sharing and Disclosure
+- **Communication:** Addressing user inquiries, providing support, and sharing essential information regarding Bot usage.
 
-We do not sell, trade, or otherwise transfer your information to outside parties. However, we may share your information in the following circumstances:
+## Data Sharing
 
-- With third-party service providers who assist us in operating our bot or providing services to you.
-- When we believe disclosure is necessary to comply with applicable laws, regulations, or legal processes.
+The developer does not share personal information with third parties unless required by law or with explicit user consent.
+
+## Data Security
+
+While reasonable precautions are taken to protect collected information, complete security over internet transmission or electronic storage cannot be guaranteed.
 
 ## Data Retention
 
-We retain the information collected for as long as necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+User data is retained only as long as necessary to provide services and may be deleted upon user request.
 
-## Security
+## Children's Privacy
 
-We are committed to protecting the security of your information and take reasonable precautions to prevent unauthorized access, disclosure, alteration, or destruction of data.
+The Bot is not intended for individuals under the age of 13. If you suspect a child has provided personal information, please contact the developer.
 
-## Changes to This Privacy Policy
+## Changes to this Privacy Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+This Privacy Policy may undergo updates periodically. Any alterations become effective immediately upon posting.
 
 ## Contact Us
 
-If you have any questions or concerns about our Privacy Policy or our practices regarding your information, please contact us at [reddyyateesh999@example.com](mailto:reddyyateesh999@gmail.com).
+For inquiries or concerns regarding this Privacy Policy, please contact the developer at :
+- Discord : **[reddy_yateesh](http://discord.com/users/827219080208580669)**
+- Mail : **[reddyyateesh999@gmail.com](mailto:reddyyateesh999@gmail.com)**
+- Support Server : **[NARA COMMUNITY](https://discord.com/invite/YXr744ycgy)**
 
-Last Updated: [Date]
