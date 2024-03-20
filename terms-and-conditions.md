@@ -2,7 +2,7 @@
 
 ## Introduction
 
-These terms of use govern the usage of the NARA Discord bot ("NARA") and any associated services provided by the developer. By using the Bot, you agree to comply with these terms.
+These terms of use govern the usage of the Discord bot ("NARA") and any associated services provided by the developer. By using the Bot, you agree to comply with these terms.
 
 ## License and Usage
 
