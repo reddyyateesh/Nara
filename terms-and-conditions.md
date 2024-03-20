@@ -49,4 +49,3 @@ If you have any questions or concerns about these Terms, please contact us at :
 - Discord : **[reddy_yateesh](http://discord.com/users/827219080208580669)**
 - Mail : **[reddyyateesh999@gmail.com](mailto:reddyyateesh999@gmail.com)**
 - Support Server : **[NARA COMMUNITY](https://discord.com/invite/YXr744ycgy)**
-
