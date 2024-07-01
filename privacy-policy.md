@@ -1,4 +1,4 @@
-# NARA Discord Bot - Privacy Policy
+# Nara Discord Bot - Privacy Policy
 
 This document outlines the privacy policy for the Discord bot ("NARA") and its associated services provided by the developer.
 
