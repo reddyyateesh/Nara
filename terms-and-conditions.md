@@ -1,4 +1,4 @@
-# NARA Discord Bot - Terms of Service
+# Nara Discord Bot - Terms of Service
 
 ## Introduction
 
