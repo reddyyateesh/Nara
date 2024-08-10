@@ -41,7 +41,7 @@ Need Help?
 
 Reach out to our support team via:
 
-- Support Server: [https://naravirtualai.com/discord]
+- Support Server: [Nara Community](https://naravirtualai.com/discord)
 - Email: reddyyateesh@gmail.com
 
 We're here to help you keep your community safe and secure!
