@@ -2,7 +2,7 @@
 
 Keep your community safe from harm with our powerful Anti-Nuke module. This intelligent system automatically detects and prevents malicious activities, like mass deletions of channels or roles, to ensure your server remains secure and intact.
 
-**Key Benefits**
+Key Benefits
 
 - Peace of Mind: Our module watches your server 24/7, so you don't have to.
 - Customizable Protection: Adjust the sensitivity to fit your community's needs.
