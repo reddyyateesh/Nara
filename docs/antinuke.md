@@ -1,5 +1,3 @@
-Here is a rewritten version of the documentation with a more polished tone and formatting:
-
 Anti-Nuke Module Documentation
 
 Overview
