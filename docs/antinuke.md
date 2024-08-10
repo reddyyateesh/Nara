@@ -1,4 +1,4 @@
-Protect Your Discord Server with Our Anti-Nuke Module
+# Protect Your Discord Server with Our Anti-Nuke Module
 
 Keep your community safe from harm with our powerful Anti-Nuke module. This intelligent system automatically detects and prevents malicious activities, like mass deletions of channels or roles, to ensure your server remains secure and intact.
 
